@@ -1,0 +1,14 @@
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\bin\Debug\Android One-Click Tutorial.exe.config
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\bin\Debug\Android One-Click Tutorial.exe
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\bin\Debug\Android One-Click Tutorial.pdb
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\bin\Debug\Android One-Click Tutorial.xml
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android_One_Click_Tutorial.Form1.resources
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android_One_Click_Tutorial.Resources.resources
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android One-Click Tutorial.vbproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android One-Click Tutorial.exe
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android One-Click Tutorial.xml
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android One-Click Tutorial.pdb
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android_One_Click_Tutorial.Backup.resources
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android_One_Click_Tutorial.Restore.resources
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android_One_Click_Tutorial.Install.resources
+c:\users\simon\documents\visual studio 2012\Projects\Android One-Click Tutorial\Android One-Click Tutorial\obj\Debug\Android_One_Click_Tutorial.Push.resources
